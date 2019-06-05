@@ -117,8 +117,8 @@ DATABASES = {
         'NAME': 'blogweb',
         'HOST': '127.0.0.1',
         'PORT': '3306',
-        'USER': 'root',
-        'PASSWORD': 'shige.',
+        'USER': 'youname',
+        'PASSWORD': 'youpassword',
     }
 }
 
